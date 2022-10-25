@@ -5,3 +5,30 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+nav {
+  height: 5rem;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+
+  background-color: #2081c3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit;
+  text-align: center;
+  font-size: 2rem;
+  padding: 0px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  padding-top: 50px;
+  margin: 0 auto;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
